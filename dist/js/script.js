@@ -7415,9 +7415,9 @@ sliderPrev.on("click", function() {
 });
 
 },{}],"hyZ28":[function(require,module,exports) {
-module.exports = require("5fe913319f9ff2d3").getBundleURL("2MSMO") + "../scss/style.css" + "?" + Date.now();
+module.exports = require("645442d084b8cb7e").getBundleURL("2MSMO") + "../scss/style.css" + "?" + Date.now();
 
-},{"5fe913319f9ff2d3":"lgJ39"}],"lgJ39":[function(require,module,exports) {
+},{"645442d084b8cb7e":"lgJ39"}],"lgJ39":[function(require,module,exports) {
 "use strict";
 var bundleURL = {};
 function getBundleURLCached(id) {
@@ -7457,7 +7457,7 @@ exports.getOrigin = getOrigin;
   * Copyright 2011-2022 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
   */ (function(global, factory) {
-    module.exports = factory(require("449f15671a1ac1f3"));
+    module.exports = factory(require("493a052cecbff009"));
 })(this, function(Popper) {
     "use strict";
     function _interopNamespace(e) {
@@ -10974,7 +10974,7 @@ exports.getOrigin = getOrigin;
     return index_umd;
 });
 
-},{"449f15671a1ac1f3":"7unqC"}],"7unqC":[function(require,module,exports) {
+},{"493a052cecbff009":"7unqC"}],"7unqC":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "popperGenerator", ()=>(0, _createPopperJs.popperGenerator)) // eslint-disable-next-line import/no-unused-modules
